@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-automatic-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue-cli plugin自动化生成组件注册文件、路由注册文件",
   "main": "index.js",
   "scripts": {
